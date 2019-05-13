@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bai4_tuan6</string>
+    <string name="title">Quản lí sản phẩm</string>
+    <string name="catology">Danh mục</string>
+    <string name="masp">Mã sản phẩm</string>
+    <string name="tensp">Tên sản phẩm</string>
+    <string name="nhap">Nhập sản phẩm</string>
+    <string name="danhsach">Danh sách sản phẩm theo danh mục</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+<ImageView
+    android:src="@drawable/delete"
+    android:id="@+id/hinhanh"
+    android:layout_width="30dp"
+    android:layout_height="30dp" />
+    <TextView
+        android:text=""
+        android:id="@+id/idne"
+        android:layout_width="20dp"
+        android:layout_height="60dp" />
+    <TextView
+        android:text="-"
+        android:layout_width="10dp"
+        android:layout_height="60dp" />
+    <TextView
+        android:text=""
+        android:id="@+id/chune"
+        android:layout_width="250dp"
+        android:layout_height="60dp" />
+
+    <CheckBox
+        android:layout_marginLeft="22dp"
+        android:id="@+id/check"
+        android:layout_width="30dp"
+        android:layout_height="30dp" />
+
+</LinearLayout>
